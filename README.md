@@ -21,4 +21,3 @@ A simple and clean Todo List application built using Flutter. Users can add, upd
 - **Dart** – Programming language
 
 
-
