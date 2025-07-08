@@ -11,11 +11,8 @@ A simple and clean Todo List application built using Flutter. Users can add, upd
 ## 📸 Screenshots
 
 | Home Page | Add Task |
-|----------|----------|
-| ![Home](![flutter5 1](https://github.com/user-attachments/assets/89e83f81-946b-4d62-9511-1b433037d1c5)
-) | ![Add Task](![flutter5](https://github.com/user-attachments/assets/2e9a78a0-1dc7-4eed-82ef-589540390423)
-) |
-
+|-----------|----------|
+| ![Home](https://github.com/user-attachments/assets/89e83f81-946b-4d62-9511-1b433037d1c5) | ![Add Task](https://github.com/user-attachments/assets/2e9a78a0-1dc7-4eed-82ef-589540390423) |
 
 ## 🛠️ Tech Stack
 
