@@ -20,3 +20,15 @@ A simple and clean Todo List application built using Flutter. Users can add, upd
 - **Dart** – Programming language
 
 
+## 🚦 Getting Started
+
+1. **Clone the repo:**
+
+```bash
+git clone https://github.com/seshathri044/flutter-todo-app.git
+cd flutter-todo-app
+2.Install dependencies:
+flutter pub get
+3.Run the app:
+flutter run
+
