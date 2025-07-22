@@ -27,8 +27,13 @@ A simple and clean Todo List application built using Flutter. Users can add, upd
 ```bash
 git clone https://github.com/seshathri044/flutter-todo-app.git
 cd flutter-todo-app
-2.Install dependencies:
+```
+2. ##Install dependencies:
+```bash
 flutter pub get
-3.Run the app:
+```
+3. ##Run the app:
+```bash
 flutter run
+```
 
